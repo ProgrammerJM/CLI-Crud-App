@@ -30,7 +30,7 @@ A simple command-line interface (CLI) for managing a todo list using Node.js, Po
    ```env
    DB_HOST=localhost
    DB_PORT=5432
-   DB_USER=postgres
+   DB_USER=yourusername
    DB_PASSWORD=yourpassword
    DB_NAME=tododb
    ```
